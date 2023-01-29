@@ -1,12 +1,10 @@
-# Forecast_DoubleMovingAverage-DoubleExponentialSmoothing
-Double Moving Average is best models for historical data with a trend but no seasonality.
+# Double Moving Average (DMA) and Double Exponential Smoothing
+Dataset = Sales Report Indihome PematangSiantar
+Times = January 2018 until December 2021
 
-same as
+* Double Moving Average is best models for historical data with a trend but no seasonality.
+* Double Eksponensial Smoothing is best models for data have a trend and do not have a seasonal component.
 
-Double Eksponensial Smoothing, this is best models for data have a trend and do not have a seasonal component.
-
-DMA and DES are suitable for short-term forecasting
-
-by using sales data [monthly], analysis and forecasting are carried out by comparing MAPE
-
-conclusions ; MAPE DMA < MAPE DES
+* DMA and DES are suitable for short-term forecasting
+* Exploratory Data Analysis by monthly, analysis and forecasting are carried out by comparing MAPE
+* Summary = MAPE DMA < MAPE DES with optimal parameter
