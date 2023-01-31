@@ -1,5 +1,6 @@
 # Double Moving Average (DMA) and Double Exponential Smoothing
 Dataset = Sales Report Indihome PematangSiantar
+
 Times = January 2018 until December 2021
 
 * Double Moving Average is best models for historical data with a trend but no seasonality.
